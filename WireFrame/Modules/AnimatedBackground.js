@@ -5,8 +5,8 @@
 
 // 🔧 Settings🔧
 
-const BRAIN_MODEL = "Assets/brain.gltf";
-const POINTS_SPRITE = 'Assets/sprites/point.png';
+const BRAIN_MODEL = "WireFrame/Assets/brain.gltf";
+const POINTS_SPRITE = 'WireFrame/Assets/point.png';
 
 const SCALE = 0.017; // DEPENDS ON THE MODEL YOU LOAD.
 const POSITION_X = 0;
